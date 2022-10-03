@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Data Science Projects</h2>
 
-- <b>Applications in Python</b>
+- <b>Apps in Python</b>
   - [Guitar Tuner with tkinter](https://github.com/dizuluaga/Guitar-Tuner)
 - <b>Machine Learning Projects</b>
   - [Prediction of high-tension transmision lines failures due to atmospheric discharges](https://github.com/dizuluagap/EquipoRayo)
