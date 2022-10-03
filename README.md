@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diana! <br/><a href="https://github.com/dizuluagap">Data Scientist</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Environmental Engineer</a>
+<h1>Hi, I'm Diana! <br/><a href="https://github.com/dizuluagap">Data Scientist</a> and <a href="https://www.linkedin.com/in/diana-zuluaga-pulgarin/">Environmental Engineer</a>
 
 <h2>👩‍💻 Data Science Projects</h2>
 
