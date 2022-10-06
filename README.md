@@ -6,12 +6,13 @@
   - [Guitar Tuner with tkinter](https://github.com/dizuluaga/Guitar-Tuner)
 - <b>Machine Learning Projects</b>
   - [Prediction of high-tension transmision lines failures due to atmospheric discharges](https://github.com/dizuluagap/EquipoRayo)
-- <b>Academic Projects</b>
+- <b>Research Projects</b>
   - Spatial and temporal variability of solar radiation in Colombia (M.Eng. Thesis)
   - The influence of equatorially trapped waves on precipitation variability in the Amazon basin and northern South America
   - Long-term trends in monthly precipitation over Colombia
-  - [Fractal geometries plotter](https://github.com/dizuluaga/Fractals)
   - Assessment of interpolation techniques for solar radiation in Colombia (B.Eng. Final Project)
+- <b>Other Projects</b>
+  - [Fractal geometries plotter](https://github.com/dizuluaga/Fractals)
 
 <h2>👩 About me</h2>
 
