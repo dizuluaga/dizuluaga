@@ -2,15 +2,15 @@
 
 <h2>👩‍💻 Data Science Projects</h2>
 
-- <b>Apps in Python</b>
-  - [Guitar Tuner with tkinter](https://github.com/dizuluaga/Guitar-Tuner)
-- <b>Machine Learning Projects</b>
-  - [Prediction of high-tension transmision lines failures due to atmospheric discharges](https://github.com/dizuluagap/EquipoRayo)
 - <b>Research Projects</b>
   - Spatial and temporal variability of solar radiation in Colombia (M.Eng. Thesis)
   - The influence of equatorially trapped waves on precipitation variability in the Amazon basin and northern South America
-  - Long-term trends in monthly precipitation over Colombia
-  - Assessment of interpolation techniques for solar radiation in Colombia (B.Eng. Final Project)
+  - [Long-term trends in monthly precipitation over Colombia](https://github.com/dizuluaga/rainfall-trends)
+  - [Assessment of interpolation techniques for solar radiation in Colombia](https://repository.eia.edu.co/handle/11190/2241) (B.Eng. Final Project)
+- <b>Machine Learning Projects</b>
+  - [Prediction of high-tension transmision lines failures due to atmospheric discharges](https://github.com/dizuluaga/EquipoRayo)
+- <b>Apps in Python</b>
+  - [Guitar Tuner with tkinter](https://github.com/dizuluaga/Guitar-Tuner)
 - <b>Other Projects</b>
   - [Fractal geometries plotter](https://github.com/dizuluaga/Fractals)
 
