@@ -16,7 +16,7 @@
 
 <h2>👩 About me</h2>
 
-🌱 I’m passionate about automation, machine learning and geospatial analysis<br>
+🌱 I’m passionate about geospatial analysis, machine learning and automation<br>
 👯 I’m looking to collaborate on inspiring data projects<br>
 ✍️ Check out my [Resume](https://github.com/dizuluaga/resume/blob/main/CV.pdf)<br> 
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/diana-zuluaga-pulgarin)
